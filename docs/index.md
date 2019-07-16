@@ -1,4 +1,4 @@
-# Litecore v0.1
+# Bitcore v0.14
 
 ## Principles
 
@@ -17,10 +17,10 @@ To get started, just `npm install litecore` or `bower install litecore`.
 
 ## Payment Handling
 * [Using Different Units](unit.md)
-* [Acknowledging and Requesting Payments: Litecoin URIs](uri.md)
+* [Acknowledging and Requesting Payments: Bitcoin URIs](uri.md)
 * [The Transaction Class](transaction.md)
 
-## Litecoin Internals
+## Bitcoin Internals
 * [Scripts](script.md)
 * [Block](block.md)
 
@@ -42,7 +42,7 @@ Some functionality is implemented as a module that can be installed separately:
 * [Mnemonics](https://github.com/bitpay/bitcore-mnemonic)
 * [Elliptical Curve Integrated Encryption Scheme](https://github.com/bitpay/bitcore-ecies)
 * [Blockchain Explorers](https://github.com/bitpay/bitcore-explorers)
-* [Signed Messages](https://github.com/litecoin-project/litecore-message)
+* [Signed Messages](https://github.com/bitpay/bitcore-message)
 
 # Examples
 
